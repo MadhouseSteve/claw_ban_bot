@@ -1,0 +1,10 @@
+{
+  "name": "claw-ban-bot",
+  "description": "A bot for auto-modding and banning users across a network of Twitch channels",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MadhouseSteve/claw_ban_bot.git",
+  "author": "Madhouse Steve <steve@madhouseminers.com>",
+  "license": "MIT"
+}
